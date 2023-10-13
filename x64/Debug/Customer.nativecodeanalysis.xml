@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Krysch Atienza\source\repos\Project5\Project5\</FILEPATH>
+      <FILENAME>Customer.cpp</FILENAME>
+      <LINE>161</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>Customer_List::insertionSort</FUNCTION>
+    <DECORATED>?insertionSort@Customer_List@@AEAAXXZ</DECORATED>
+    <FUNCLINE>152</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Krysch Atienza\source\repos\Project5\Project5\</FILEPATH>
+      <FILENAME>Customer.cpp</FILENAME>
+      <LINE>162</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>Customer_List::insertionSort</FUNCTION>
+    <DECORATED>?insertionSort@Customer_List@@AEAAXXZ</DECORATED>
+    <FUNCLINE>152</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Krysch Atienza\source\repos\Project5\Project5\</FILEPATH>
+      <FILENAME>Customer.cpp</FILENAME>
+      <LINE>163</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>Customer_List::insertionSort</FUNCTION>
+    <DECORATED>?insertionSort@Customer_List@@AEAAXXZ</DECORATED>
+    <FUNCLINE>152</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Krysch Atienza\source\repos\Project5\Project5\</FILEPATH>
+      <FILENAME>Customer.cpp</FILENAME>
+      <LINE>166</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>Customer_List::insertionSort</FUNCTION>
+    <DECORATED>?insertionSort@Customer_List@@AEAAXXZ</DECORATED>
+    <FUNCLINE>152</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Krysch Atienza\source\repos\Project5\Project5\</FILEPATH>
+      <FILENAME>Customer.cpp</FILENAME>
+      <LINE>167</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>Customer_List::insertionSort</FUNCTION>
+    <DECORATED>?insertionSort@Customer_List@@AEAAXXZ</DECORATED>
+    <FUNCLINE>152</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Krysch Atienza\source\repos\Project5\Project5\</FILEPATH>
+      <FILENAME>Customer.cpp</FILENAME>
+      <LINE>168</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>Customer_List::insertionSort</FUNCTION>
+    <DECORATED>?insertionSort@Customer_List@@AEAAXXZ</DECORATED>
+    <FUNCLINE>152</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

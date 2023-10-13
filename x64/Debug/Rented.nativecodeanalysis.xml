@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Krysch Atienza\source\repos\Project5\Project5\</FILEPATH>
+      <FILENAME>Rented.h</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Renting_Customers::Renting::next' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Renting_Customers::Renting::{ctor}</FUNCTION>
+    <DECORATED>??0Renting@Renting_Customers@@QEAA@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Renting_Customers::Renting::next</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Krysch Atienza\source\repos\Project5\Project5\</FILEPATH>
+      <FILENAME>Rented.h</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Renting_Customers::Renting::customerId' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Renting_Customers::Renting::{ctor}</FUNCTION>
+    <DECORATED>??0Renting@Renting_Customers@@QEAA@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Renting_Customers::Renting::customerId</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Krysch Atienza\source\repos\Project5\Project5\</FILEPATH>
+      <FILENAME>Rented.h</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Renting_Customers::Renting::currentlyRenting' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Renting_Customers::Renting::{ctor}</FUNCTION>
+    <DECORATED>??0Renting@Renting_Customers@@QEAA@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Renting_Customers::Renting::currentlyRenting</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
